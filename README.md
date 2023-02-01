@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Zenwattage's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenwattage)](https://github.com/Zenwattage/github-readme-stats)
 <!--
 **zenwattage/zenwattage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
